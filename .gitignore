@@ -3,4 +3,5 @@ Generative_Modeling/notebooks/__pycache__
 Generative_Modeling/checkpoint/
 Generative_Modeling/logs/
 Generative_Modeling/models
-
+Generative_Modeling/notebooks/logs
+Generative_Modeling/notebooks/models
