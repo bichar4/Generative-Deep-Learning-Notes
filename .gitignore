@@ -5,3 +5,7 @@ Generative_Modeling/logs/
 Generative_Modeling/models
 Generative_Modeling/notebooks/logs
 Generative_Modeling/notebooks/models
+Generative_Modeling/data
+.ipynb_checkpoints/
+Generative_Modeling/notebooks/checkpoint/
+Generative_Modeling/notebooks/output/
